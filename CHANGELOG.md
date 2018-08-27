@@ -1,3 +1,109 @@
+<a name="0.14.2"></a>
+## [0.14.2](https://github.com/vuejs/vuepress/compare/v0.14.1...v0.14.2) (2018-08-12)
+
+
+### Features
+
+* expose config.styl variables to style.styl ([#727](https://github.com/vuejs/vuepress/issues/727)) ([0bc2b51](https://github.com/vuejs/vuepress/commit/0bc2b51))
+
+
+
+<a name="0.14.1"></a>
+## [0.14.1](https://github.com/vuejs/vuepress/compare/v0.14.0...v0.14.1) (2018-08-09)
+
+
+### Bug Fixes
+
+* default search box line wrap ([03c812b](https://github.com/vuejs/vuepress/commit/03c812b))
+* navbar's regression - siteName null check ([02a4713](https://github.com/vuejs/vuepress/commit/02a4713))
+
+
+
+<a name="0.14.2"></a>
+## [0.14.2](https://github.com/vuejs/vuepress/compare/v0.14.1...v0.14.2) (2018-08-12)
+
+
+### Features
+
+* expose config.styl variables to style.styl ([#727](https://github.com/vuejs/vuepress/issues/727)) ([0bc2b51](https://github.com/vuejs/vuepress/commit/0bc2b51))
+
+
+
+<a name="0.14.1"></a>
+## [0.14.1](https://github.com/vuejs/vuepress/compare/v0.14.0...v0.14.1) (2018-08-09)
+
+
+### Bug Fixes
+
+* default search box line wrap ([03c812b](https://github.com/vuejs/vuepress/commit/03c812b))
+* navbar's regression - siteName null check ([02a4713](https://github.com/vuejs/vuepress/commit/02a4713))
+
+
+
+<a name="0.14.2"></a>
+## [0.14.2](https://github.com/vuejs/vuepress/compare/v0.14.1...v0.14.2) (2018-08-12)
+
+
+### Features
+
+* expose config.styl variables to style.styl ([#727](https://github.com/vuejs/vuepress/issues/727)) ([0bc2b51](https://github.com/vuejs/vuepress/commit/0bc2b51))
+
+
+
+<a name="0.14.1"></a>
+## [0.14.1](https://github.com/vuejs/vuepress/compare/v0.14.0...v0.14.1) (2018-08-09)
+
+
+### Bug Fixes
+
+* default search box line wrap ([03c812b](https://github.com/vuejs/vuepress/commit/03c812b))
+* navbar's regression - siteName null check ([02a4713](https://github.com/vuejs/vuepress/commit/02a4713))
+
+
+
+<a name="0.14.2"></a>
+## [0.14.2](https://github.com/vuejs/vuepress/compare/v0.14.1...v0.14.2) (2018-08-12)
+
+
+### Features
+
+* expose config.styl variables to style.styl ([#727](https://github.com/vuejs/vuepress/issues/727)) ([0bc2b51](https://github.com/vuejs/vuepress/commit/0bc2b51))
+
+
+
+<a name="0.14.1"></a>
+## [0.14.1](https://github.com/vuejs/vuepress/compare/v0.14.0...v0.14.1) (2018-08-09)
+
+
+### Bug Fixes
+
+* default search box line wrap ([03c812b](https://github.com/vuejs/vuepress/commit/03c812b))
+* navbar's regression - siteName null check ([02a4713](https://github.com/vuejs/vuepress/commit/02a4713))
+
+
+
+<a name="0.14.1"></a>
+## [0.14.1](https://github.com/vuejs/vuepress/compare/v0.14.0...v0.14.1) (2018-08-09)
+
+
+### Bug Fixes
+
+* default search box line wrap ([03c812b](https://github.com/vuejs/vuepress/commit/03c812b))
+* navbar's regression - siteName null check ([02a4713](https://github.com/vuejs/vuepress/commit/02a4713))
+
+
+
+<a name="0.14.1"></a>
+## [0.14.1](https://github.com/vuejs/vuepress/compare/v0.14.0...v0.14.1) (2018-08-09)
+
+
+### Bug Fixes
+
+* default search box line wrap ([03c812b](https://github.com/vuejs/vuepress/commit/03c812b))
+* navbar's regression - siteName null check ([02a4713](https://github.com/vuejs/vuepress/commit/02a4713))
+
+
+
 <a name="0.14.1"></a>
 ## [0.14.1](https://github.com/vuejs/vuepress/compare/v0.14.0...v0.14.1) (2018-08-09)
 
